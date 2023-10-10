@@ -3,7 +3,7 @@ This mod helps you to set arms to armorstands in minecraft in survival mode.
 
 Try to write:
 
-/setarms true\false
+/setarms (true/false)
 
   if you wrote "true",
   
