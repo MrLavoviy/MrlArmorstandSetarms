@@ -7,11 +7,11 @@ Try to write:
 
   if you wrote "true",
   
-    nearest armorstand in 5 blocks will have arms.
+   nearest armorstand in 5 blocks will have arms.
     
   if you wrote "false",
   
-    nearest armorstand in 5 block will not have arms.
+   nearest armorstand in 5 block will not have arms.
     
 It's working in survival mode.
 
