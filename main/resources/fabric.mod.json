@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "mrlas",
+	"version": "1.0.0.0",
+	"name": "mrlas",
+	"description": "/setarms to set arms to nearest armorstand",
+	"authors": [
+		"MrLavoviy"
+	],
+	"contact": {
+		"homepage": "vk.com/sxlutixn"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mrlas.Mrlas"
+		]
+	},
+	"mixins": [
+		"mrlas.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
